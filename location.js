@@ -1,3 +1,3 @@
 (function() {
-    window['location'] = 'https://nnx.tjxy.site/';
+    window['location'] = 'https://sen.awexuan.cn';
 })();
