@@ -1,3 +1,3 @@
 (function() {
-    window['location'] = 'https://sen.awexuan.cn';
+    window['location'] = 'https://gg.cheenm.com/';
 })();
