@@ -1,3 +1,3 @@
 (function() {
-    window['location'] = 'https://gg.cheenm.com/';
+    window['location'] = 'https://chrme.ooglez.cc/';
 })();
